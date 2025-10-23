@@ -1,0 +1,22 @@
+# Environment variables (NEVER commit this!)
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac system files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Data files (optional)
+data/*.csv
+data/*.json
