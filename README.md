@@ -1,4 +1,5 @@
 ➤AI PROMPT GENERATOR
+
 An interactive web app built using Python, Streamlit, and OpenAI API, designed to generate optimized text prompts and AI-generated images based on user goals. This project helps creators, developers, and designers quickly craft effective prompts for writing, art, coding, and creative projects.
 
 ➤FEATURES
@@ -8,6 +9,7 @@ An interactive web app built using Python, Streamlit, and OpenAI API, designe
 * User-Friendly Interface: Built fully with Streamlit — no frontend coding required.
 * Secure Key Management: Uses python-dotenv to hide API keys safely.
 
+  
 ➤PROJECT STRUCTURE
 AI-Prompt-Generator/
 │
@@ -26,3 +28,4 @@ AI-Prompt-Generator/
 3. Create a .env file in the project root directory and add your OpenAI API key: OPENAI_API_KEY=your_api_key_here
 
 4. Run the app using Streamlit: streamlit run app.py
+
